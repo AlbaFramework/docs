@@ -1,3 +1,3 @@
 # Alba docs
 
-Docs for [Alba](https://github.com/AlbaFramework/alba).
+Docs for [Alba](https://github.com/alba-framework/alba).

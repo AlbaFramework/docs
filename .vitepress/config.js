@@ -10,7 +10,7 @@ export default defineConfig({
 
   themeConfig: {
     repo: '',
-    docsRepo: 'AlbaFramework/docs',
+    docsRepo: 'alba-framework/docs',
     docsDir: '',
     docsBranch: 'main',
     editLinks: true,
@@ -33,7 +33,7 @@ export default defineConfig({
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/AlbaFramework/alba',
+        link: 'https://github.com/alba-framework/alba',
       },
     ],
 
