@@ -4,6 +4,9 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Alba',
   description: 'Alba is a framework that boosts Flutter project development.',
+  srcExclude: [
+      'README.md',
+  ],
 
   themeConfig: {
     repo: '',
