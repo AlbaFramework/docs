@@ -1,0 +1,9 @@
+:root {
+    --c-brand: #7e57c2;
+    --c-brand-light: #b085f5;
+}
+
+/* Hide default GitHub link. See: https://github.com/vuejs/vitepress/issues/457 */
+.theme > .nav-bar > .nav > .nav-links > .item:last-child {
+    display: none;
+}
